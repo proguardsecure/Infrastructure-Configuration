@@ -1,0 +1,25 @@
+## Git Repository Information
+
+### .gitignore
+```
+# Sensitive files
+*.pem
+*.key
+*.p12
+actual_passwords.txt
+production_configs/
+/credentials/production/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+```
