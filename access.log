@@ -1,0 +1,37 @@
+## Employee Access Logs
+
+### infrastructure/monitoring/access_log_summary.json
+```json
+{
+  "date": "2025-08-12",
+  "summary": "Daily access summary",
+  "high_privilege_access": [
+    {
+      "employee": "Alexandra Chen",
+      "system": "Security Vault",
+      "timestamp": "2025-08-12T08:15:00Z",
+      "action": "Policy Review"
+    },
+    {
+      "employee": "David Kim",
+      "system": "Penetration Testing Lab",
+      "timestamp": "2025-08-12T09:30:00Z",
+      "action": "Security Assessment"
+    },
+    {
+      "employee": "Emily Johnson",
+      "system": "Network Architecture Files",
+      "timestamp": "2025-08-12T10:45:00Z",
+      "action": "Configuration Update"
+    }
+  ],
+  "failed_access_attempts": [
+    {
+      "account": "external_contractor_001",
+      "system": "Client Database",
+      "attempts": 3,
+      "last_attempt": "2025-08-12T14:22:00Z"
+    }
+  ]
+}
+```
