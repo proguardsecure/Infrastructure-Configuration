@@ -1,0 +1,22 @@
+## Training Records
+
+### documentation/training/security_awareness_2025.md
+```markdown
+# Security Awareness Training - 2025
+
+## Completion Status by Employee
+
+| Employee | Role | Completion Date | Score | Next Due |
+|----------|------|----------------|-------|----------|
+| Alexandra Chen | CISO | 2025-07-15 | 98% | 2026-07-15 |
+| Marcus Rodriguez | SOC Manager | 2025-07-20 | 95% | 2026-07-20 |
+| Sarah Thompson | Threat Analyst | 2025-07-18 | 97% | 2026-07-18 |
+| David Kim | Pen Test Lead | 2025-07-22 | 94% | 2026-07-22 |
+| Emily Johnson | Security Architect | 2025-08-01 | 96% | 2026-08-01 |
+| James Wilson | IR Specialist | 2025-08-05 | 93% | 2026-08-05 |
+| Lisa Zhang | Malware Analyst | 2025-08-10 | 99% | 2026-08-10 |
+| Robert Brown | Security Consultant | 2025-07-25 | 92% | 2026-07-25 |
+
+**Training Coordinator:** Marcus Rodriguez
+**Compliance Rate:** 100%
+```
